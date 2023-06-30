@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "database_connection", "database_connection.csproj", "{431AB0AB-62D3-4C16-BAD4-6E2452C27CFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{A6A75512-259D-4C0F-9158-7476FD909E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431AB0AB-62D3-4C16-BAD4-6E2452C27CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431AB0AB-62D3-4C16-BAD4-6E2452C27CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431AB0AB-62D3-4C16-BAD4-6E2452C27CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431AB0AB-62D3-4C16-BAD4-6E2452C27CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDC4B65-D38A-49AE-A4CA-BB0A0921D780}
+	EndGlobalSection
+EndGlobal
